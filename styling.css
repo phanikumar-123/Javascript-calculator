@@ -1,0 +1,28 @@
+#sidenav
+{
+    background-color:black;
+    width:20%;
+    height:100%;
+    font-size:30px;
+    margin-top:0px;
+    line-height:100px;
+}
+#buttons :hover
+{
+background-color:lightskyblue;
+}
+#contactus
+{
+    margin-right:40px;
+}
+#home
+{
+margin-left:50px;
+}
+
+
+.heading
+{ 
+    text-align: center;
+}
+.boxes

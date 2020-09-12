@@ -1,0 +1,107 @@
+
+.body
+{
+    align-content: center;
+    background-image:url('phani.jpg');
+   color:white;
+}
+.heading
+{ 
+    text-align: center;
+}
+.boxes
+{
+    margin-top:100px;
+    margin-left:520px;
+     background-color:rgba(3, 19, 5, 0.486);
+    width:20%;
+    height:50%;
+    padding:50px;
+    border:15px solid rgba(9, 255, 0, 0.5);   
+}
+#num1
+{
+    margin-top:10px;
+    margin-left: 10px;
+height:30px;
+}
+#num2
+{
+    margin-top:10px;
+    margin-left: 10px;
+    height:30px;
+}
+#number2
+{
+    margin-top:20px;
+}
+#result
+{
+    margin-top:20px;
+    margin-left:10px;
+    height: 30px;
+}
+#name
+{
+    text-align: center;
+
+}
+#buttons
+{
+    margin-top:30px;
+    margin-left:20px;
+    display: flex;
+    flex-flow:row wrap;  
+}
+#add
+{
+    background-color:pink;
+    font-size:20px;
+    width:30px;
+}
+#subtract
+{
+    font-size:20px;
+    width:30px;
+    background-color:pink;
+    margin-left:20px;
+}
+#multiply
+{
+    background-color:pink;
+    font-size:10px;
+    width:30px;
+    margin-left:20px;
+}
+#divison
+{
+    background-color:pink;
+    font-size:20px;
+    width:30px;
+    margin-left:20px;
+}
+#modulus
+{
+    background-color:pink;
+    font-size:20px;
+    width:30px;
+    margin-left:20px;
+}
+#exponential
+{
+    background-color:pink;
+    font-size:20px;
+    width:30px;
+    margin-left:20px;
+}
+#select
+{
+    font-size: 20px;;
+    height:40px;
+    width:1000px;
+}
+
+#thus
+{
+    margin-left:60px;
+}
